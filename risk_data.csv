@@ -1,0 +1,4 @@
+"ID,Risk_Description,Likelihood,Impact"  
+"R1,Ransomware Attack,4,5"  
+"R2,Unpatched Server,3,4"  
+"R3,Weak Password Policy,5,3" 

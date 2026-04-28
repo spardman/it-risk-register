@@ -1,0 +1,7 @@
+"import csv"  
+"with open('risk_data.csv', mode='r') as f:"  
+"    reader = csv.DictReader(f)"  
+"    print(f'--- IT Risk Heat Map ---')"  
+"    for row in reader:"  
+"        score = int(row['Likelihood']) * int(row['Impact'])"  
+"        print(f'Risk {row[\"ID\"]}: {row[\"Risk_Description\"]} | Score: {score}')" 
