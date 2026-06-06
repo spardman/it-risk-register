@@ -14,3 +14,7 @@ Before reviewing the risk metrics below, you can audit the core production files
 ---
 
 ## 📈 Methodology & Risk Scoring Key
+  
+- **16-25**: Critical Risk (Immediate Action)  
+- **10-15**: High Risk (Remediation Required)  
+- **Below 10**: Low/Medium Risk 
